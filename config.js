@@ -63,7 +63,7 @@ global.moment = moment
 //💌------------------------------------------💌
 // APIS
 global.APIs = {
-  // API Prefix
+  /./ API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz',
   dzx: 'https://api.dhamzxploit.my.id',
@@ -131,9 +131,9 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 //Sticker WM
 global.wm = process.env.BOT_NAME
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.princebot = '🛡️ SHAHID-KING-MD🛡️'
 global.packname = process.env.PACK_NAME
-global.author = 'Prince♥️' 
+global.author = 'SHAHID KING♥️' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
@@ -162,8 +162,8 @@ global.eror = '```404 error```'
 dotenv.config()
 
 const ownervb = process.env.OWNER_NUMBER;
-if (!ownervb){
-   throw new Error("OWNER_NUMBER var env is not set please set it e.g 923092668108,Prince");
+if (!923073224302){
+   throw new Error("OWNER_NUMBER var env is not set please set it e.g 923073224302, SHAHID");
 }
 
 const ownerlist = ownervb.split(',');
